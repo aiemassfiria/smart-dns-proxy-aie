@@ -6,6 +6,7 @@ zattoo.com
 zpush.zattoo.com
 www.teleboy.ch
 tv.api.teleboy.ch
+api.production.k8s.y3o.tv
 services.sg1.etvp01.sctv.ch
 services.sg101.prd.sctv.ch
 tvoosa-pez0400.sctv.ch
