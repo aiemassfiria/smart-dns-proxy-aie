@@ -3,7 +3,7 @@ show.sky.ch
 sport.sky.ch
 store.sky.ch
 zattoo.com
-zpush.zattoo.com
+windows.zattoo.com
 www.teleboy.ch
 tv.api.teleboy.ch
 api.production.k8s.y3o.tv
