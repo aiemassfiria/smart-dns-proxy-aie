@@ -1,5 +1,5 @@
 # How to #
-## Smart-DNS-Proxy for Telerising ##
+## Smart-DNS-Proxy for US Streaming ##
 
 ### Instructions
 Use a Debian or Ubuntu box with root on a clean public CH IP and run:
@@ -17,7 +17,7 @@ After successful installation, the access data for the admin panel will be displ
 
 ### Authorising additional IPs or DynDNS Domains
 If you want to share your system with friends and family, you can authorise their home IP address(s) using the `smart-dns-proxy` admin panel, located at `http://<ipaddr>:8080/`, where `ipaddr` is the public IP address of your VPS. Login using `admin` account with the password you recorded during the build.
-[![](https://raw.githubusercontent.com/Publish3r/smart-dns-proxy/main/static/admin.png)](https://raw.githubusercontent.com/Publish3r/smart-dns-proxy/main/static/admin.png)
+[![](https://raw.githubusercontent.com/aiemassfiria/smart-dns-proxy-aie/main/static/admin.png)](https://raw.githubusercontent.com/aiemassfiria/smart-dns-proxy-aie/main/static/admin.png)
 
 
 ### Scripted authorization of IPs
@@ -35,8 +35,8 @@ curl -L http://<ipaddr>:8080/autoadd?ip=<your-public-ipaddr>&username=<admin-use
 
 
 ### Requirements
-* VPS Switzerland
-* Telerising API (Server: zh2-)
+* VPS USA
+
 
 
 ### Additional
