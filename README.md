@@ -10,7 +10,7 @@ Use a Debian or Ubuntu box with root on a clean public CH IP and run:
 	  && mkdir -p smart-dns-proxy\
 	  && cd smart-dns-proxy\
 	  && curl -fsSL https://get.docker.com/ | sh || apt-get -y install docker.io\
-	  && curl -fsSL https://github.com/Publish3r/smart-dns-proxy/raw/main/install.tar.gz | gunzip - | tar x --strip-components=1\
+	  && curl -fsSL https://github.com/aiemassfiria/smart-dns-proxy-aie/raw/main/install.tar.gz | gunzip - | tar x --strip-components=1\
 	  && ./build.sh
 
 After successful installation, the access data for the admin panel will be displayed in the terminal.
